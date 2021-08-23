@@ -1,0 +1,26 @@
+{
+  "name": "tdctransformation",
+  "version": "1.0.0",
+  "description": "TDC Presentation - Live Code",
+  "main": "taximeter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodeoliveira/TDCTransformation-LiveCode.git"
+  },
+  "keywords": [
+    "node",
+    "unit-test"
+  ],
+  "author": "Léo de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leodeoliveira/TDCTransformation-LiveCode/issues"
+  },
+  "homepage": "https://github.com/leodeoliveira/TDCTransformation-LiveCode#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
