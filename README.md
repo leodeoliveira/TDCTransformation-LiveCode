@@ -1,5 +1,5 @@
 # TDCTransformation - LiveCode
-Small javascript project with unit tests used to talk about Refactoring and tests.
+Small javascript project with unit tests used to talk about Refactoring and unit tests.
 
 
 Event: [TDC Transformation 2021](https://thedevconf.com/tdc/2021/transformation/)<br>
